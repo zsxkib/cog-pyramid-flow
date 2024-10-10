@@ -1,0 +1,15 @@
+sentencepiece
+tiktoken
+jsonlines
+diffusers==0.30.1
+accelerate==0.30.0
+torchvision
+numpy==1.26.4
+imageio
+imageio-ffmpeg
+timm
+transformers
+opencv-python-headless
+einops
+tensorboardX
+ipython
